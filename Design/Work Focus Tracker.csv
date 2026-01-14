@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Sbtn1, Sbtn2, Sbtn3, Sbtn4",4," Pushbutton"
+"Dled4",1,"Red LED"
+"Dled3",1,"Yellow LED"
+"Dled2",1,"Blue LED"
+"Dled1",1,"Green LED"
+"Rres4, Rres3, Rres2, Rres1",4,"330 Ω Resistor"
+"Dled5",1,"White LED"
+"Rres5",1,"220 Ω Resistor"
+"PIEZObzr1",1," Piezo"
